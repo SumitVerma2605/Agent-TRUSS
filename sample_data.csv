@@ -1,0 +1,11 @@
+sample_id,business_name,submitted_person,lab_personnel,collection_date,sample_type,sample_stage,remarks
+LAB-2024-001,Acme Pharma Ltd.,Rajan Mehta,Dr. Priya Sharma,2024-11-05,Pharmaceutical,Analysis Complete,Batch QC check
+LAB-2024-002,AquaSure Testing,Sunita Rao,Mr. Anil Nair,2024-11-12,Water,Report Issued,Municipal supply sample
+LAB-2024-003,GreenEarth Agro,Vikram Singh,Dr. Priya Sharma,2024-11-20,Soil,In Progress,Pre-harvest nutrient check
+LAB-2024-004,CityBlood Bank,Nisha Patel,Ms. Kavya Reddy,2024-12-01,Blood,Received,Cross-match urgent
+LAB-2024-005,Acme Pharma Ltd.,Rajan Mehta,Ms. Kavya Reddy,2024-12-10,Chemical,In Progress,API purity test
+LAB-2024-006,FreshBite Foods,Arjun Kapoor,Mr. Anil Nair,2025-01-08,Food,Analysis Complete,Shelf-life validation
+LAB-2024-007,AquaSure Testing,Sunita Rao,Dr. Priya Sharma,2025-01-15,Water,Report Issued,Industrial effluent
+LAB-2024-008,BioLife Diagnostics,Meera Joshi,Ms. Kavya Reddy,2025-02-03,Blood,Archived,Routine CBC panel
+LAB-2025-001,GreenEarth Agro,Vikram Singh,Mr. Anil Nair,2025-03-10,Soil,Received,New season baseline
+LAB-2025-002,FreshBite Foods,Arjun Kapoor,Dr. Priya Sharma,2025-03-18,Food,In Progress,Allergen screening
